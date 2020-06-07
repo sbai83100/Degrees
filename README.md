@@ -29,3 +29,7 @@ The **shortest_path** function returns the shortest path from the person with id
 * Assuming there is a path from the **source** to the **target**, the function returns a list, where each list item is the next (movie_id, person_id) pair in the path from the source to the target. Each pair is a tuple of two **int**s.
 * If there are multiple paths of minimum length from the source to the target, the function returns any one of them.
 * If there is no possible path between two actors, the function returns **None**.
+
+
+## Acknowledgements
+Project courtesy of Harvard University CS50's Introduction to Artificial Intelligence with Python
